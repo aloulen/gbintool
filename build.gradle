@@ -1,5 +1,8 @@
 apply plugin: 'groovy'
 
+apply plugin: 'application'
+mainClassName = 'aloulen.uvsq.gbintool.Main'
+
 repositories {
     mavenCentral()
 }
