@@ -1,7 +1,7 @@
 apply plugin: 'groovy'
 
 apply plugin: 'application'
-mainClassName = 'src.aloulen.Main'
+mainClassName = 'aloulen.Main'
 
 repositories {
     mavenCentral()

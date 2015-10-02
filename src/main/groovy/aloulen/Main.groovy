@@ -1,4 +1,4 @@
-package src.aloulen
+package aloulen
 
 class Main {
     static void main(def args) {
