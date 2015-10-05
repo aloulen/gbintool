@@ -9,6 +9,7 @@ class Main {
     String returnList() {
         def listEtudiants = ["aloulen zakariae", "adil tahiri", "mostapha amrani"]
 	println listEtudiants
+	'listEtudiants'
        	
     }
 }
