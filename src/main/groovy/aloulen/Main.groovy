@@ -2,11 +2,13 @@ package aloulen
 
 class Main {
     static void main(def args) {
-        Main m = new Main()
-        println m.returnHello()
+       Main m = new Main()
+       m.returnList()
     }
 
-    String returnHello() {
-        'Hello'
+    String returnList() {
+        def listEtudiants = ["aloulen zakariae", "adil tahiri", "mostapha amrani"]
+	println listEtudiants
+       	
     }
 }
